@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.sergemazille.merdiarecorder" version="0.0.2" xmlns="http://www.w3.org/ns/widgets">
+    <preference name="loglevel" value="DEBUG" />
+    <feature name="MediaRecorderBridge">
+        <param name="android-package" value="com.sergemazille.MediaRecorderBridge" />
+    </feature>
+    <name>Media Recorder App</name>
+    <description>
+        Media Recorder Plugin Sample App
+    </description>
+    <content src="index.html" />
+</widget>

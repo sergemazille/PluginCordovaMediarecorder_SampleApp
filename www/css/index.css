@@ -1,0 +1,47 @@
+section#mediaRecorderApp {
+    padding: 1em;
+    margin: auto;
+}
+
+button {
+    font-size: 1em;
+    margin-top: 0.5em;
+    border: none;
+    width: 100%;
+    height: 2em;
+    color: #FFF;
+}
+
+button:active {
+    border: none;
+}
+
+button.btn-not-recording {
+    border: none;
+    background-color: #30d14e;
+}
+
+button.btn-recording {
+    border: none;
+    background-color: #752020;
+}
+
+button.btn-reload {
+    border: none;
+    background-color: #1c3566;
+}
+
+button#exit {
+    width: 3em;
+    height: 2em;
+    float: right;
+    background-color: crimson;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}

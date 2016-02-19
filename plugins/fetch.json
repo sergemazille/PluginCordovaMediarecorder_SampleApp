@@ -1,0 +1,10 @@
+{
+    "mediarecorder": {
+        "source": {
+            "type": "local",
+            "path": "..\\plugin_mediarecorder"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

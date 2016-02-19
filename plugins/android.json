@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "mediarecorder": {
+            "PACKAGE_NAME": "com.sergemazille.merdiarecorder"
+        }
+    },
+    "dependent_plugins": {}
+}

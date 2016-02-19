@@ -24,7 +24,9 @@ This simple App purpose is to show the MediaRecorder plugin in action on Android
 ## Installation
 
 git clone https://github.com/sergemazille/PluginCordovaMediarecorder_SampleApp.git
+
 cd PluginCordovaMediaRecorder_SampleApp
+
 cordova run android
 
 (Don't forget to plug your device on the computer since Android's emulator won't work (we're dealing with the camera here...))

@@ -26,11 +26,6 @@ button.btn-recording {
     background-color: #752020;
 }
 
-button.btn-reload {
-    border: none;
-    background-color: #1c3566;
-}
-
 button#exit {
     width: 3em;
     height: 2em;
